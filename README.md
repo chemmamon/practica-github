@@ -1,3 +1,3 @@
-## Práctica con GitHub Desktop
+## Branch creada desde GitHub Desktop
 
-Estoy aprendiendo a usar GitHub Desktop para manejar commits, branches y Pull Requests de forma visual.
+Esta sección fue agregada desde una rama creada con GitHub Desktop.
