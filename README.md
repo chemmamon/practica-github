@@ -1,9 +1,3 @@
-## Comandos que estoy aprendiendo
+## Práctica con GitHub Desktop
 
-- git status
-- git add
-- git commit
-- git push
-- git pull
-- git branch
-- git switch
+Estoy aprendiendo a usar GitHub Desktop para manejar commits, branches y Pull Requests de forma visual.
