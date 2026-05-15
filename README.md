@@ -1,2 +1,9 @@
-# Proyecto de práctica con Git y GitHub desde VS Code
-Estoy aprendiendo Git y GitHub paso a paso desde vscode en branch prueba-vscode
+## Comandos que estoy aprendiendo
+
+- git status
+- git add
+- git commit
+- git push
+- git pull
+- git branch
+- git switch
